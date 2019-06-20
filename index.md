@@ -1,5 +1,5 @@
 # title1
 
 hehehhe
-[link](folder/test.html)
+[link](http://htmlpreview.github.io/?https://github.com/asdiijj/ApiTest/blob/master/folder/test.html)
 ----
